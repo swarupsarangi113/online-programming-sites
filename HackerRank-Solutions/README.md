@@ -1,5 +1,5 @@
 <!-- Images -->
-![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png)
+![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png)
 <!-- Heading -->
 # HackerRank
 
