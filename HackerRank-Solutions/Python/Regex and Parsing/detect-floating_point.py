@@ -3,7 +3,7 @@
 import re
 
 for t in range(int(input())) :
-    match = re.match(r'^[0-9+.-]+$',input())
+    match = re.fullmatch(r'^[+-]?\.?[0-9]*\.[0-9]+$',input())
     if match :
         print('True')
     else :
